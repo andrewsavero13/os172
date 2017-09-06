@@ -21,3 +21,4 @@ drwxr-xr-x 1 Asus 197609  0 Sep  6 06:00 week09/
 drwxr-xr-x 1 Asus 197609  0 Sep  6 06:00 week10/
 drwxr-xr-x 1 Asus 197609  0 Sep  6 06:01 xtra/
 /c/Users/Asus/os172/week01
+Today is 06 Sep 2017 at 18:00:11
